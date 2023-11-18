@@ -67,7 +67,6 @@ ___
 Тоже есть экзаменационные работы
 
 3. ["Поколение Python": курс для профессионалов](https://stepik.org/course/68343/info)
-\
 
     >Работа с датой и временем
 
@@ -207,6 +206,13 @@ ___
     
 Много тестов и повторения материала
 ___
+#### EXTRA:
+>[Структуры данных: selfedu](https://www.youtube.com/watch?v=gHLDdM59Di8&list=PLA0M1Bcd0w8x4jEp1r_aN3xlnlbfx9RQ2)
+
+>[Docker - Полный курс Docker Для Начинающих](https://www.youtube.com/watch?v=_uZQtRyF6Eg)
+
+
+---
 
 ### Профессиональный уровень
 12. [Добрый, добрый Django с Сергеем Балакиревым](https://stepik.org/course/183363/info) \
