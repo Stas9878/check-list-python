@@ -211,6 +211,9 @@ ___
 
 >[Docker - Полный курс Docker Для Начинающих](https://www.youtube.com/watch?v=_uZQtRyF6Eg)
 
+>[Я бы рассказал это о django себе в самом начале | Upper Junior](https://www.youtube.com/watch?v=ZHVX0CaO4Tg&t=3s)
+
+
 
 ---
 
