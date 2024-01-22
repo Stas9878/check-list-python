@@ -283,15 +283,13 @@ ___
 16. [WEB Парсинг на Python](https://stepik.org/course/104774/promo) \
 Научитесь парсить сайты, познакомитесь с сопутствующими библиотеками
 
-        >Библиотека Requests
+    >Основы работы с Asyncio
 
-        >Библиотека BeautifulSoup
+    >Работа с задачами 
 
-        >Фреймворк Selenium
+    >aiofiles
 
-        >Парсинг TELEGRAM
-
-        >Обход капчи
+    >aiohttp
 
 
 
