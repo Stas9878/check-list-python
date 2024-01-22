@@ -280,18 +280,18 @@ ___
 
     >aiohttp
 
-16.  [WEB Парсинг на Python](https://stepik.org/course/104774/promo) \
+16. [WEB Парсинг на Python](https://stepik.org/course/104774/promo) \
 Научитесь парсить сайты, познакомитесь с сопутствующими библиотеками
 
-    >Библиотека Requests
+        >Библиотека Requests
 
-    >Библиотека BeautifulSoup
+        >Библиотека BeautifulSoup
 
-    >Фреймворк Selenium
+        >Фреймворк Selenium
 
-    >Парсинг TELEGRAM
+        >Парсинг TELEGRAM
 
-    >Обход капчи
+        >Обход капчи
 
 
 
