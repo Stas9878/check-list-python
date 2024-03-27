@@ -213,6 +213,8 @@ ___
 
 >[Я бы рассказал это о django себе в самом начале | Upper Junior](https://www.youtube.com/watch?v=ZHVX0CaO4Tg&t=3s)
 
+>[Статья о Data - Classes](https://habr.com/ru/articles/415829/)
+
 ---
 
 ### Профессиональный уровень
