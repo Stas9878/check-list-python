@@ -327,6 +327,9 @@ ___
 
 ___
 #### EXTRA:
+
+>[Типизированный Python](https://www.youtube.com/watch?v=dKxiHlZvULQ) Отличное видео, которое поможет лучше узнать Type Hinting в Python
+
 >[Интернет магазин на Python + Django (часть 1)](https://www.youtube.com/watch?v=km6tGZ3OHvQ) отличный курс, для повторения материала по Django и проект в портфолио
 
 >[Интернет магазин на Python + Django (часть 2)](https://www.youtube.com/watch?v=w-ITLbRfhnA) вторая часть отличного курса
