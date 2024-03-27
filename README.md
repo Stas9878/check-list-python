@@ -315,7 +315,7 @@ ___
 
     >Валидация данных
 
-    >Миграции
+    >Связывание Frontend и Backend
 
     >Файловая структура
 
@@ -328,6 +328,8 @@ ___
 >[Интернет магазин на Python + Django (часть 1)](https://www.youtube.com/watch?v=km6tGZ3OHvQ) отличный курс, для повторения материала по Django и проект в портфолио
 
 >[Интернет магазин на Python + Django (часть 2)](https://www.youtube.com/watch?v=w-ITLbRfhnA) вторая часть отличного курса
+
+>[Ютуб - Курс по FastAPI](https://youtube.com/playlist?list=PLQC1AzOdryAEoWv38AMufTHaGT8KzqScR&si=zZzfQrC3nU1MmKa7) Поможет потренировать знания в FastAPI
 
 
 ### Пока на этом всё
