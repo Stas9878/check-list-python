@@ -323,8 +323,22 @@ ___
 
     >Кэширование с Redis
 
-    >Фоновые задачи с Celery, Flower
+    >Фоновые задачи с Celery, Flowerd
 
+<br>
+
+19. [FastAPI YouTube курс](https://www.youtube.com/watch?v=z4pbneT6SLw&list=PLYnH8mpFQ4akzzS1D9IHkMuXacb-bD4Cl&index=2) \
+Повторите инфу по FastAPI и углубитесь в пройденные темы, а так же узнаете много лайфхаков и секретов в Python
+
+    >Подключение кк БД
+
+    >Операции с SQLAlchemy
+
+    >Связи ForeignKey и ManyToMany
+
+    >Аутентификация
+
+    >JWT
 ___
 #### EXTRA:
 
