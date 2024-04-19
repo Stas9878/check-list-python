@@ -210,6 +210,7 @@ ___
 >[Структуры данных: selfedu](https://www.youtube.com/watch?v=gHLDdM59Di8&list=PLA0M1Bcd0w8x4jEp1r_aN3xlnlbfx9RQ2)
 
 >[Binary Search | LeetCode](https://www.youtube.com/watch?v=qwgjFDbInao&list=PLYnH8mpFQ4akciTfqmad4Mtam7vG5mWhv&index=1&pp=iAQB)
+Плейлист по решению задач на бинарный поиск на LeetCode
 
 >[Docker - Полный курс Docker Для Начинающих](https://www.youtube.com/watch?v=_uZQtRyF6Eg)
 
@@ -343,6 +344,9 @@ ___
     >JWT
 ___
 #### EXTRA:
+
+>[Binary Tree | LeetCode](https://www.youtube.com/watch?v=TcpQLHBpgls&list=PLYnH8mpFQ4akIqs9LZxBwQYHbclvkXahP)
+Плейлист по решению задач на бинарные деревья на LeetCode
 
 >[Типизированный Python](https://www.youtube.com/watch?v=dKxiHlZvULQ) Отличное видео, которое поможет лучше узнать Type Hinting в Python
 
