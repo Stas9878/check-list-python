@@ -209,6 +209,8 @@ ___
 #### EXTRA:
 >[Структуры данных: selfedu](https://www.youtube.com/watch?v=gHLDdM59Di8&list=PLA0M1Bcd0w8x4jEp1r_aN3xlnlbfx9RQ2)
 
+>[Binary Search | LeetCode](https://www.youtube.com/watch?v=qwgjFDbInao&list=PLYnH8mpFQ4akciTfqmad4Mtam7vG5mWhv&index=1&pp=iAQB)
+
 >[Docker - Полный курс Docker Для Начинающих](https://www.youtube.com/watch?v=_uZQtRyF6Eg)
 
 >[Я бы рассказал это о django себе в самом начале | Upper Junior](https://www.youtube.com/watch?v=ZHVX0CaO4Tg&t=3s)
