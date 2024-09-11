@@ -222,6 +222,8 @@ ___
 
 >[Статья о Data - Classes](https://habr.com/ru/articles/415829/)
 
+>[Правильные аннотации *args и **kwargs в Python](https://www.youtube.com/watch?v=q1PkSWL9rGk)
+
 ---
 
 ### Профессиональный уровень
