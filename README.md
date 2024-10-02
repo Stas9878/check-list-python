@@ -438,6 +438,7 @@ ___
 >[Основы RabbitMQ: что это и как это работает!](https://www.youtube.com/watch?v=i-Eh-NCa0Tk) Вводное видео по RabbitMQ - автор канала объясняет просто и наглядно
 
 >[API блога на Django REST Framefork](https://pythonru.com/uroki/django-rest-api/amp) Краткое руководство по созданию API на DRF
+>[KeyCloak Authentication](https://www.thomasvitale.com/keycloak-authentication-flow-sso-client) Хорошая вводная статья про KeyCloak
 
 ### Пока на этом всё
 
