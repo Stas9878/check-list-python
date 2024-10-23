@@ -387,6 +387,8 @@ ___
 
 >[Ютуб - Курс по FastAPI](https://youtube.com/playlist?list=PLQC1AzOdryAEoWv38AMufTHaGT8KzqScR&si=zZzfQrC3nU1MmKa7) Поможет потренировать знания в FastAPI
 
+>[Как работать с процессами и потоками в Python]([https://youtube.com/playlist?list=PLQC1AzOdryAEoWv38AMufTHaGT8KzqScR&si=zZzfQrC3nU1MmKa7](https://habr.com/ru/companies/simbirsoft/articles/701020/)) Краткая статья по основным терминам и понятиям много(поточного/процессного) и асинхронного программирования на Python. 
+
 ___
 ## С Junior до Middle
 ### Базовый уровень
