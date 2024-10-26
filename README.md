@@ -239,9 +239,10 @@ ___
 
     >Вопросы рекрутёров
 
+<br>
 
-13.  [Добрый, добрый Django с Сергеем Балакиревым](https://stepik.org/course/183363/info) \
-Кто-то бы включил этот курс в начало предыдущего уровня, но лично мне этот курс зашёл только когда у него появился экземпляр на Stepik, из-за большого количества практики.
+13. [Добрый, добрый Django с Сергеем Балакиревым](https://stepik.org/course/183363/info) \
+Кто-то бы включил этот курс в начало предыдущего уровня, но лично мне этот курс зашёл только когда у него появился экземпляр на Stepik, из-за большого количества практики
 
     >Шаблоны
 
@@ -387,8 +388,6 @@ ___
 
 >[Ютуб - Курс по FastAPI](https://youtube.com/playlist?list=PLQC1AzOdryAEoWv38AMufTHaGT8KzqScR&si=zZzfQrC3nU1MmKa7) Поможет потренировать знания в FastAPI
 
->[Как работать с процессами и потоками в Python](https://habr.com/ru/companies/simbirsoft/articles/701020/) Краткая статья по основным терминам и понятиям много(поточного/процессного) и асинхронного программирования на Python. 
-
 ___
 ## С Junior до Middle
 ### Базовый уровень
@@ -440,8 +439,6 @@ ___
 >[Основы RabbitMQ: что это и как это работает!](https://www.youtube.com/watch?v=i-Eh-NCa0Tk) Вводное видео по RabbitMQ - автор канала объясняет просто и наглядно
 
 >[API блога на Django REST Framefork](https://pythonru.com/uroki/django-rest-api/amp) Краткое руководство по созданию API на DRF
-
->[KeyCloak Authentication](https://www.thomasvitale.com/keycloak-authentication-flow-sso-client) Хорошая вводная статья про KeyCloak
 
 ### Пока на этом всё
 
