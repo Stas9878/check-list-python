@@ -1,5 +1,5 @@
 
-# Мой чек-лист по Python 2023 - 2025 :purple_heart:
+# Мой чек-лист по Python 2025 :purple_heart:
 
 ## Содержание
 
