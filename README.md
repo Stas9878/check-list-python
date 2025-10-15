@@ -414,6 +414,8 @@ ___
 
 >[Ютуб - Курс по FastAPI](https://youtube.com/playlist?list=PLQC1AzOdryAEoWv38AMufTHaGT8KzqScR&si=zZzfQrC3nU1MmKa7) Поможет потренировать знания в FastAPI
 
+>[Ознакомительная статья про Redis в качестве брокера сообщений](https://timeweb.cloud/tutorials/redis/broker-soobshchenij-redis) - Познакомит с очередями в Redis
+
 ___
 ## С Junior до Middle
 ### Базовый уровень
