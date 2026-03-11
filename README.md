@@ -454,6 +454,8 @@ ___
 
 >[FastAPI Пет-Проект](https://youtube.com/playlist?list=PLeLN0qH0-mCVQKZ8-W1LhxDcVlWtTALCS&si=6HUnwy1gkexDe2IW) Продолжите осваивать FastAPI и изучите новые конструкции, с помощью которых сделаете свой пет-проект на этом фреймворке
 
+>[SQLAlchemy: практическая работа с базой данных в Python](https://stepik.org/course/232655/promo) Этот курс подробное и практическое руководство по работе с SQLAlchemy 2.0 от именитого автора Ильи Перминова. Вы изучите Core и ORM, научитесь проектировать декларативные модели, строить сложные запросы, управлять транзакциями и связями, избегать N+1, работать с асинхронным SQLAlchemy и выполнять миграции через Alembic
+
 >[Binary Tree | LeetCode](https://www.youtube.com/watch?v=TcpQLHBpgls&list=PLYnH8mpFQ4akIqs9LZxBwQYHbclvkXahP)
 Плейлист по решению задач на бинарные деревья на LeetCode
 
