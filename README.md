@@ -182,6 +182,8 @@ ___
     >Практика
 
 #### EXTRA (средний уровень intern):
+>[CS50x Lectures (видео-курс на английском)](https://www.youtube.com/playlist?list=PLhQjrBD2T383q7Vn8QnTsVgSvyLpsqL_R)
+
 >[Python: Паттерны проектирования](https://stepik.org/course/143519/info)
 
 >[Инди-курс программирования на Python](https://stepik.org/course/63085/info) (повторение)
