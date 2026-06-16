@@ -368,6 +368,7 @@ ___
 
 >[Правильные аннотации *args и **kwargs в Python](https://www.youtube.com/watch?v=q1PkSWL9rGk)
 
+>[Gradual typing и аннотации типов в Python](https://stepik.org/course/269616/promo)
 ---
 
 ### Профессиональный уровень
